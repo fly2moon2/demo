@@ -13,5 +13,11 @@
   ],
   "profile": {
     "name": "typicode-forked-f2m2"
-  }
+  },
+  "users": [
+    { "id": 1, "name": "Paul Jon", "login": "pjon" },
+    { "id": 2, "name": "Sue Lee", "login": "slee" },
+    { "id": 3, "name": "Zoe Fung", "login": "zfung" }
+  ]
+
 }
